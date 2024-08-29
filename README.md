@@ -27,7 +27,7 @@ unparent child
 - Delete by type nondeformer history
 - Modify -> Freeze transform
 - Modify -> Center Pivot
-- Rigging -> Display -> Transform Display -> View Local Rotation Axis
+- Rigging -> Display -> Transform Display -> View Local Rotation Axis (Show *joints* and *Handles*)
 
 ## Joints
 - Tools settings   
@@ -35,4 +35,4 @@ unparent child
 - Be careful of where the joints are pointing, turn on local rotation axis to see
 - Joint Orient on attr editor. When you freeze joints, their joint orientation remains
 - You can scale and rotate joints, do NOT translate joints. Freeze after
-- 
+- scale the radius on attr if too big
