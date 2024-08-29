@@ -57,14 +57,17 @@ unparent child
 - Mode: Paint, value 01, Flood. Object should turn white
 - Go to next object
 
+## Bendy Surface Skinning
+- create joints
+- bind skin
+- Animate the extreme deformation on the joints and paint accordingly
+
+
 # Controls
 - create similar heirachy from controls to joints
 - Ctrls should have a group where you can have values, but yr curve should be clean.
 - orientate yr ctrl groups to be exact to joints
 - you can edit or change yr curve/ctrl CVs to create interesting shapes, but the curve orientation shouldnt change
+- Use nonlinear deform bend for more interesting shapes
 
-## Bendy Surface Skinning
-- create joints
-- bind skin
-#### Animate the deformation
 
