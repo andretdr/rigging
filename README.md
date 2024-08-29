@@ -50,10 +50,8 @@ unparent child
 
 - Start from tips and go inwards
 - Identify joint
-- Mode: Select
-- Dbl click vertex to select affected object
-- Mode: Paint
-- Value 01, Flood. Object should turn white
+- Mode: Select, dbl click vertex to select affected object
+- Mode: Paint, value 01, Flood. Object should turn white
 - Go to next object
 
-- 
+
