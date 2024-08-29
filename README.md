@@ -27,7 +27,10 @@ unparent child
 - Delete by type nondeformer history   
 - Modify -> Freeze transform   
 - Modify -> Center Pivot   
-- Rigging -> Display -> Transform Display -> View Local Rotation Axis (Show *joints* and *Handles*)   
+- Rigging -> Display -> Transform Display -> View Local Rotation Axis (Show *joints* and *Handles*)
+- Rigging -> Skeleton -> Mirror Joints Options (Mirror Behavior for rotation correctness)
+- curves -> Rebuild (increasing spans on curve)
+- deform -> nonlinear -> bend
 
 ## Joints
 - Tools settings   
@@ -54,4 +57,14 @@ unparent child
 - Mode: Paint, value 01, Flood. Object should turn white
 - Go to next object
 
+# Controls
+- create similar heirachy from controls to joints
+- Ctrls should have a group where you can have values, but yr curve should be clean.
+- orientate yr ctrl groups to be exact to joints
+- you can edit or change yr curve/ctrl CVs to create interesting shapes, but the curve orientation shouldnt change
+
+## Bendy Surface Skinning
+- create joints
+- bind skin
+#### Animate the deformation
 
