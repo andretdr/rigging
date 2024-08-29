@@ -31,6 +31,7 @@ unparent child
 - Rigging -> Skeleton -> Mirror Joints Options (Mirror Behavior for rotation correctness)
 - curves -> Rebuild (increasing spans on curve)
 - deform -> nonlinear -> bend
+- animation -> key -> set driven key
 
 ## Joints
 - Tools settings   
@@ -69,5 +70,13 @@ unparent child
 - orientate yr ctrl groups to be exact to joints
 - you can edit or change yr curve/ctrl CVs to create interesting shapes, but the curve orientation shouldnt change
 - Use nonlinear deform bend for more interesting shapes
+
+## Set Driven Keys
+animation -> keys -> set driven keys
+- select driver joint -> load driver -> select driving attribute
+- select driven joints -> load driven -> driven attr(s)
+- key
+
+
 
 
