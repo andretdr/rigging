@@ -75,7 +75,8 @@ unparent child
 animation -> keys -> set driven keys
 - select driver joint -> load driver -> select driving attribute
 - select driven joints -> load driven -> driven attr(s)
-- key
+- key (Now you've set the first keypose between the driving and driven)
+- create your next key pose (diver then driven)¡¡™¡ and hit key
 
 
 
