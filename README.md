@@ -3,7 +3,7 @@
 - delete history   
 - freeze transformation *sets* all values to zero   
 - center pivot
-- 
+- scale and rotate joints is fine, *dont* translate
 ### Idea
 - Geom moved by joints by skinning
 - Joints moved by controllers by constraints
