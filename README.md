@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=1wvdQy2Fdhw&list=PLbxLlP-Vyt-_c3iKFxEFAurJa9KBDHVJB
+
+
 # Rigging fundementals   
 ### Keep objects clean   
 - delete history   
