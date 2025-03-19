@@ -66,6 +66,10 @@ unparent child
 - bind skin
 - Animate the extreme deformation on the joints and paint accordingly
 
+### Have new joints to add?
+- Skin -> Edit Influence -> Add Influence -> Lock weight to 0 (so dont mess up your current setup)
+- select geom and open your weight weighting tool, and find new joints and paint weight
+
 
 # Controls
 - create similar heirachy from controls to joints
